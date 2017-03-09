@@ -1,5 +1,7 @@
 <body>
  <p style="color:red;font-size:60px;">this is a website</p>
+ <a href="file:///C:/Users/USER/Desktop/網頁練習/個人網站.html">首頁</a>
+ <a href="file:///C:/Users/USER/Desktop/網頁練習/自我介紹.html">自我介紹</a>
  <h1>別人對我說的話</h1>
 -----------------------------------------------------------------
 </body>
